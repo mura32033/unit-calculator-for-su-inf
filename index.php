@@ -31,6 +31,17 @@ if (isset($_GET['dept'])) {
   </nav>
   <div class="container">
     <?php if (empty($dept)) { ?>
+      <div class="card mb-4">
+        <div class="card-body">
+          <h5 class="card-title">本アプリの使用に際して</h5>
+          <p class="card-text">本アプリを用いて算出された単位数は、各ユーザの自己責任のもと参考として用いてください。</p>
+          <p class="card-text">本アプリを使用することによって生じたいかなる損害は、一切責任を負いません。</p>
+          <p class="card-text">正確な単位数は、教務係に問い合わせてください。</p>
+          <p class="fw-bold card-text">学科を選択の上、「設定する」をクリックすると上記内容を理解・同意したものとみなします。</p>
+        </div>
+      </div>
+      <h2>学科選択</h2>
+      <p>所属学科を選択してください。</p>
       <form action="" name="deptSelectForm">
         <?php foreach ($fac as $index => $f) {
           if ($f['isEnabled'] < 1) {
