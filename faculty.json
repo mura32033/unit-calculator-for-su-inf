@@ -1,0 +1,22 @@
+[
+  {
+    "code": "if",
+    "name": "情報学部",
+    "isEnabled": 0
+  },
+  {
+    "code": "cs",
+    "name": "情報科学科",
+    "isEnabled": 1
+  },
+  {
+    "code": "bi",
+    "name": "行動情報学科",
+    "isEnabled": 1
+  },
+  {
+    "code": "ia",
+    "name": "情報社会学科",
+    "isEnabled": 0
+  }
+]

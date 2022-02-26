@@ -1,0 +1,487 @@
+[
+  {
+    "name": "情報学総論",
+    "unit": 2,
+    "type": "facRequired"
+  },
+  {
+    "name": "コンピュータ入門",
+    "unit": 2,
+    "type": "facRequired"
+  },
+  {
+    "name": "コンピュータシステム演習",
+    "unit": 1,
+    "type": "facRequired"
+  },
+  {
+    "name": "日本語表現法",
+    "unit": 2,
+    "type": "facRequired"
+  },
+  {
+    "name": "コミュニケーションスキルズⅠ",
+    "unit": 1,
+    "type": "facRequired"
+  },
+  {
+    "name": "プログラミング",
+    "unit": 3,
+    "type": "facRequired"
+  },
+  {
+    "name": "学習マネジメント",
+    "unit": 2,
+    "type": "facRequired"
+  },
+  {
+    "name": "情報倫理と法",
+    "unit": 2,
+    "type": "facRequired"
+  },
+  {
+    "name": "情報学方法論",
+    "unit": 1,
+    "type": "facRequired"
+  },
+  {
+    "name": "リーディングスキルズⅠ",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "ライティングスキルズⅠ",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "コミュニケーションスキルズⅡ",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "リーディングスキルズⅡ",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "ライティングスキルズⅡ",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "情報学特別講義Ⅱ",
+    "unit": 2,
+    "type": "facSelect"
+  },
+  {
+    "name": "リーディングスキルズⅢ",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "コミュニケーションスキルズⅢ",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "ライティングスキルズⅢ-1",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "情報学特別講義Ⅰ",
+    "unit": 2,
+    "type": "facSelect"
+  },
+  {
+    "name": "情報学特別講義Ⅲ",
+    "unit": 2,
+    "type": "facSelect"
+  },
+  {
+    "name": "ライティングスキルズⅢ-2",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "ライティングスキルズⅢ-3",
+    "unit": 1,
+    "type": "facSelect"
+  },
+  {
+    "name": "問題分析とモデリング",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "コンピュータネットワーク基礎",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "統計学入門",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "アルゴリズムとデータ構造基礎",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "データ処理プログラミング",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "データベース論",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "情報システム基礎演習",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "データ分析応用論",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "経営のしくみ",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "ビジネス計画論",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "ユーザビリティ設計・評価論",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "Webシステム設計演習",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "データ分析応用演習",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "情報資源構築論",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "プロジェクトマネジメント",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "情報セキュリティ",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "情報学方法論演習",
+    "unit": 2,
+    "type": "deptRequired"
+  },
+  {
+    "name": "行動情報学演習",
+    "unit": 1,
+    "type": "deptRequired"
+  },
+  {
+    "name": "卒業研究",
+    "unit": 6,
+    "type": "deptRequired"
+  },
+  {
+    "name": "線形代数学Ⅰ",
+    "unit": 2,
+    "type": "deptSelectRequiredA"
+  },
+  {
+    "name": "微分積分学Ⅰ",
+    "unit": 2,
+    "type": "deptSelectRequiredA"
+  },
+  {
+    "name": "線形代数学Ⅱ",
+    "unit": 2,
+    "type": "deptSelectRequiredA"
+  },
+  {
+    "name": "微分積分学Ⅱ",
+    "unit": 2,
+    "type": "deptSelectRequiredA"
+  },
+  {
+    "name": "離散数学",
+    "unit": 2,
+    "type": "deptSelectRequiredA"
+  },
+  {
+    "name": "多変量データ解析",
+    "unit": 2,
+    "type": "deptSelectRequiredA"
+  },
+  {
+    "name": "情報と心理",
+    "unit": 2,
+    "type": "deptSelectRequiredB"
+  },
+  {
+    "name": "認知科学",
+    "unit": 2,
+    "type": "deptSelectRequiredB"
+  },
+  {
+    "name": "ビジネス計画演習",
+    "unit": 2,
+    "type": "deptSelectRequiredC"
+  },
+  {
+    "name": "ユーザビリティ設計・評価演習",
+    "unit": 2,
+    "type": "deptSelectRequiredC"
+  },
+  {
+    "name": "情報システム開発演習",
+    "unit": 2,
+    "type": "deptSelectRequiredC"
+  },
+  {
+    "name": "情報資源構築演習",
+    "unit": 2,
+    "type": "deptSelectRequiredC"
+  },
+  {
+    "name": "データマイニング",
+    "unit": 2,
+    "type": "deptSelectRequiredD"
+  },
+  {
+    "name": "人工知能",
+    "unit": 2,
+    "type": "deptSelectRequiredD"
+  },
+  {
+    "name": "システムマネジメント",
+    "unit": 2,
+    "type": "deptSelectRequiredD"
+  },
+  {
+    "name": "知的情報システム開発",
+    "unit": 2,
+    "type": "deptSelectRequiredD"
+  },
+  {
+    "name": "メディア・リテラシーⅠ",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "情報社会論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "社会調査論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "社会公共システム論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "情報管理社会論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "社会調査法",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "統治システム論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "情報・ネットワーク経済と競争",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "情報理論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "先端情報学実習Ⅰ-a",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "情報職業論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "環境・地理情報システム論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "情報社会思想",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "社会モデル",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "プログラミング方法論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "アルゴリズムとデータ構造Ⅱ",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "データベースシステム論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "先端情報学実習Ⅰ-b",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "意思決定論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "金融システム論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "産業社会行動分析",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "オペレーティングシステム",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "ネットワークプログラミング",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "ソフトウェア品質管理",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "先端情報学実習Ⅱ-a",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "インターンシップ-A",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "インターンシップ-B",
+    "unit": 1,
+    "type": "deptSelect"
+  },
+  {
+    "name": "視聴覚教育メディア論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "組織マネジメント",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "組織科学",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "知的財産論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "地域情報マネジメント",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "グローバル経営システム論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "学習過程論",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "シミュレーション",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "オペレーション計画",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "ヒューマンインタフェースおよび演習",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "先端情報学実習Ⅱ-b",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "先端情報学実習Ⅲ-a",
+    "unit": 2,
+    "type": "deptSelect"
+  },
+  {
+    "name": "先端情報学実習Ⅲ-b",
+    "unit": 2,
+    "type": "deptSelect"
+  }
+]

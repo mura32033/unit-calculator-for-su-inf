@@ -1,0 +1,37 @@
+[
+  {
+    "dept": 0,
+    "deptRequired": 16,
+    "deptSelectRequired": {
+      "A": 0
+    },
+    "deptSelect": 0
+  },
+  {
+    "dept": 1,
+    "deptRequired": 48,
+    "deptSelectRequired": {
+      "A": 6
+    },
+    "deptSelect": 20
+  },
+  {
+    "dept": 2,
+    "deptRequired": 41,
+    "deptSelectRequired": {
+      "A": 4,
+      "B": 2,
+      "C": 4,
+      "D": 4
+    },
+    "deptSelect": 21
+  },
+  {
+    "dept": 3,
+    "deptRequired": 0,
+    "deptSelectRequired": {
+      "A": 0
+    },
+    "deptSelect": 0
+  }
+]
